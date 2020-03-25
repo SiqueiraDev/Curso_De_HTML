@@ -8,7 +8,7 @@ Link da Playlist no YouTube:
 https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o
 
 Link do site do Curso em Vídeo: 
-https://www.cursoemvideo.com/course/curso-de-algoritmos/
+https://www.cursoemvideo.com/course/curso-de-html5/
 
 <h4>Link do GitHub</h4>
 
